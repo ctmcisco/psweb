@@ -2,7 +2,7 @@
 # Linux x64
 FROM alpine
 
-LABEL maintainer="ctmedill@outlook.com"
+LABEL maintainer="ctmcisco"
 
 # Install Node and NPM
 RUN apk add --update nodejs nodejs-npm
